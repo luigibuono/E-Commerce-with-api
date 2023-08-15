@@ -1,0 +1,21 @@
+<div class="login">
+  <button class="btn1" routerLink="/home">HOME</button>
+<div class="TESTO">
+  </div>
+  <form (ngSubmit)="login()">
+    <h3><b>ENTER HERE!</b></h3>
+
+    <label for="email">Email</label>
+    <input type="email" placeholder="Email" id="email" name="email" [(ngModel)]="email" required>
+
+    <label for="password">Password</label>
+    <input type="password" placeholder="Password" id="password" name="password" [(ngModel)]="password" required>
+
+    <button mat-button type="submit" [disabled]="loading">
+      <span *ngIf="!loading">Login</span>
+      <mat-spinner diameter="22" *ngIf="loading" class="spinner">wait</mat-spinner>
+    </button>
+  </form>
+
+
+</div>

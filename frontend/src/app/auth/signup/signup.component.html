@@ -1,0 +1,29 @@
+
+<div class="signUpPage">
+  <img class="image5" src="../../../assets/images/logo start.png" >
+  <button class="btn1" routerLink="/home">HOME</button>
+<form (ngSubmit)="register()">
+ <h3>SIGN IN</h3>
+
+    <label for="fname">First Name</label>
+    <input type="text" placeholder="First name" id="fname" name="fname" [(ngModel)]="fname" required>
+
+    <label for="lname">Last Name</label>
+    <input type="text" placeholder="Last name" id="lname" name="lname" [(ngModel)]="lname" required>
+
+    <label for="email">Email</label>
+    <input type="email" placeholder="Email" id="email" name="email" [(ngModel)]="email" required pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$">
+
+    <label for="password">Password</label>
+    <input type="password" placeholder="Password" name="password" [(ngModel)]="password" id="password" required>
+
+    <label for="confirmPassword">Confirm Password</label>
+    <input type="password" placeholder="Confirm Password" name="confirmPassword" [(ngModel)]="confirmPassword" id="confirmPassword" required>
+
+    <button mat-button type="submit" [disabled]="loading">
+      <span *ngIf="!loading">Sign Up</span>
+      <mat-spinner diameter="22" *ngIf="loading" class="spinner">wait</mat-spinner>
+    </button>
+  </form>
+</div>
+

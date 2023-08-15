@@ -1,0 +1,26 @@
+
+@import "~ngx-smart-modal/ngx-smart-modal";
+$main-color:#34CCCA;
+$back-ground:#28C7B6;
+$green-color:#31CBC9;
+
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(0, 111, 214);
+  color: black;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+  width: 25%;
+}
+
