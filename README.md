@@ -26,3 +26,6 @@
  <h1>**IMPORTANTE**</h1>
  Modificare il file .env nella cartella backend DEV_DB="" inserendo il vostro link mongodb+srv con email e password <br>
 
+ <h2>Screen project</h2>
+ https://github.com/luigibuono/full-stack-final-project/issues/2#issue-1852955155
+
