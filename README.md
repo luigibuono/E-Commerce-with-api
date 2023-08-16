@@ -28,4 +28,5 @@
 
  <h2>Screen project</h2>
 > > ![Screenshot 2023-08-16 122804](https://user-images.githubusercontent.com/128727133/260980645-5b6539eb-c33b-4041-8878-f5928fed12bc.png)
+![Screenshot 2023-07-25 104200](https://github.com/luigibuono/ProgettoJava-Food/assets/128727133/3fa7f1b9-a743-4899-9234-82ba5f498c0a)
 
