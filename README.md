@@ -12,4 +12,17 @@
  <hr>
  <h2>Come farla funzionare:</h2>
  <p>Versione limitata: https://sweet-gingersnap-557604.netlify.app <br>
- Versione completa in locale :</p>
+ Versione completa in locale :
+ -Aprire GitHub Deskotp e clonare repository : https://github.com/luigibuono/full-stack-final-project <br>
+ -Una volta clonato aprire vscode e tramite terminale digitare npm install per l'istallazione di tutti i pacchetti necessari <br>
+  -aprire terminale dal percorso "backend" e digitare nodemon index.js , entrerà in esecuzione il nostro mongodb <br>
+  -aprire terminale dal percorso "frontend" e digitare ng serve ,l'applicazione sarà accessibile da browser e una volta fatta la registrazione, il login, potremo acquistare ciò che vogliamo. <br>
+ </p>
+ <hr> 
+ <h2>Sintesi passaggi:</h2>
+ Per rendere il lato backend un api ho utilizzato il cloud Render. <br>
+ Ho usato diverse librerie tra cui : Rxjs -ngx-spinner-ngx-smart-modal-ngx-paginationngx-material-rating. <br>
+<hr>
+ <h1>**IMPORTANTE**</h1>
+ Modificare il file .env nella cartella backend DEV_DB="" inserendo il vostro link mongodb+srv con email e password <br>
+
