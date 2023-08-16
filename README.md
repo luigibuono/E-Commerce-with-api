@@ -31,9 +31,9 @@
 > ![Screenshot 2023-08-16 122742](https://user-images.githubusercontent.com/128727133/260980802-a2afca5f-bd5a-405d-916d-29dc32ccefd1.png)
 
 <hr>
-License
-Distributed under the MIT License. See LICENSE for more information.
+#License <br>
+Distributed under the MIT License. See LICENSE for more information. <br>
 
-Authors
-By : Luigi Buono - start2impact student
+#Authors <br>
+By : Luigi Buono - start2impact student <br>
 
