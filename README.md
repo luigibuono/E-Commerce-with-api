@@ -27,6 +27,6 @@
  Modificare il file .env nella cartella backend DEV_DB="" inserendo il vostro link mongodb+srv con email e password <br>
 
  <h2>Screen project</h2>
-> ![Screenshot 2023-08-16 122804](https://user-images.githubusercontent.com/128727133/260980645-5b6539eb-c33b-4041-8878-f5928fed12bc.png)
+![Screenshot 2023-08-16 122804](https://user-images.githubusercontent.com/128727133/260980645-5b6539eb-c33b-4041-8878-f5928fed12bc.png)
 
 
