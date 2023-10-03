@@ -1,3 +1,6 @@
+<h1 align="center"> #6 </h1>
+
+
 # full-stack-final-project
 <br>
  <h2>Cosa fa questa applicazione:</h2>
