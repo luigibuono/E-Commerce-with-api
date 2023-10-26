@@ -1,4 +1,6 @@
 // authMiddleware.js
+// prova
+/*
 const jwt = require('jsonwebtoken');
 
 function authenticateToken(req, res, next) {
@@ -19,3 +21,4 @@ function authenticateToken(req, res, next) {
 }
 
 module.exports = { authenticateToken };
+*/
